@@ -1,6 +1,13 @@
 {
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(uv pip install:*)"
+    ]
+  },
   "enabledMcpjsonServers": [
     "supabase-project-a",
     "supabase-project-b"
-  ]
+  ],
+  "enableAllProjectMcpServers": true
 }

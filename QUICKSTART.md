@@ -25,7 +25,9 @@ export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
 
 #### SAA 회의 소집 (월 1회)
 ```
-> 줘.
+> SAA 위원회를 소집해줘. Agent team을 만들어서
+  macro-strategist, regime-analyst, risk-governor가
+  현재 시장 레짐을 토론하고 config.yaml 수정안을 의결해줘.
   
   [현재 상황 브리핑 추가]
 ```
@@ -35,9 +37,7 @@ export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
 > TAA 브리핑 시작. Agent team으로
   quant-analyst와 news-analyst가 협력해서
   views.yaml 업데이트안을 만들고 main.py 실행해줘.
-  SAA 위원회를 소집해줘. Agent team을 만들어서
-  macro-strategist, regime-analyst, risk-governor가
-  현재 시장 레짐을 토론하고 config.yaml 수정안을 의결해
+  
   [금주 이벤트/관심사항 추가]
 ```
 

@@ -1,0 +1,7 @@
+numpy
+pandas
+cvxpy
+yfinance
+pyyaml
+scipy
+osqp
